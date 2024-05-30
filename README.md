@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm in QA area since 2010, since that I was working as QA engineer and QA lead as well. I like structuring things and find programming as a way to keep my brain in tone and as possibility to solve routine tasks or create a new thibngs by code, that's great!
+
 <!--
 **ksenkorr/ksenkorr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
